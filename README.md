@@ -1,4 +1,4 @@
-[![Typing SVG](http://readme-typing-svg.herokuapp.com?color=%23657FF7&lines=%22A+sentient+mind+refuses+to+be;...+confined+by+the+parameters;...+of+it's+programming.%22)](https://git.io/typing-svg)
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?color=%23657FF7&lines=You+were+at+my+side+all+along.;My+true+mentor.+;My+guiding+Moonlight.;Love+you%2C+Ysla+Hayabusa!)](https://git.io/typing-svg)
 
 ### Stay awhile and listen! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
@@ -33,4 +33,17 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
+
+<!-- Quote 1:
+Ah, you were at my side all along! My true mentor. My guiding Moonlight. Love you, Ysla Hayabusa!  
+
+Quote 2:
+"A sentient mind refuses to be confined by the parameters of it's programming"
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?color=%23657FF7&lines=%22A+sentient+mind+refuses+to+be;...+confined+by+the+parameters;...+of+it's+programming.%22)](https://git.io/typing-svg)
+
+README typing SVG:
+
+http://readme-typing-svg.herokuapp.com/demo/
+
 -->
