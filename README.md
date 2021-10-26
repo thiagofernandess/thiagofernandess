@@ -7,7 +7,7 @@ Hi, I'm Thiago Fernandes, videogame enthusiast, avid reader, noob coder, always 
 - 💬 Ask me about anything - if I can, I'm happy to help
 - 📫 How to reach me: [e-mail](thatawesomeid@gmail.com) :)
 - 😄 Pronouns: Him/His
-- ⚡ Fun fact: I know how to speak Tolkien's elven language! Yeah, that's not true at all. Would be cool if it was tho... I bet you'de be impressed. 
+- ⚡ Fun fact: I know how to speak Tolkien's elven language! Yeah, that's not true at all. Would be cool if it was tho... I bet you'd be impressed. 
 
 <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1282416/screenshots/2859399/media/77412893f720d98b84e0de1aef75bc17.gif" width="500" height="320" />
 
