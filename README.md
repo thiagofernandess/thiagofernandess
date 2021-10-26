@@ -14,7 +14,7 @@ Hi, I'm Thiago Fernandes, videogame enthusiast, avid reader, noob coder, always 
 #### Where to find me:
   <div>
   <a href="https://twitter.com/thiagodmd2" target="_blank"> <img src="https://img.shields.io/badge/twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white" alt="ícone twitter"</a>
-  <a href="https://discord.com/channels/@me/862153666046459955" target="_blank"><img src="https://img.shields.io/badge/Discord-9146FF?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+  <a href="https://discord.com/channels/@me/723157503591972875" target="_blank"> <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
     
 Farewell, good hunter! May you find your worth in the waking world!
 <!--
