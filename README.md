@@ -1,6 +1,8 @@
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?color=%23657FF7&lines=%22A+sentient+mind+refuses+to+be;...+confined+by+the+parameters;...+of+it's+programming.%22)](https://git.io/typing-svg)
+
 ### Stay awhile and listen! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-Hi, I'm Thiago Fernandes, videogame enthusiast, avid reader, noob coder, always a student at The Next Somthing New. Just trying to learn the ropes in that what it is a very new, very exciting new area for me. I love teamwork - there just isn't any better way to learn than to find yourself a great partner. Collaboration is key to knowledge, and I try to live by this standard. I'm from Brasil. Ah, secretely, I'm also a nerd.  
+Hi, I'm Thiago Fernandes, videogame enthusiast, avid reader, noob coder, always a student at The Next Somthing New. Just trying to learn the ropes in that what it is a very fresh and exciting new area for me. I love teamwork - there just isn't any better way to learn than to find yourself a great partner. Collaboration is key to knowledge, and I try to live by this standard. I'm from Brasil. Ah, secretely, I'm also a nerd.  
 
 - 🌱 I’m currently learning: 
 - ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -17,6 +19,7 @@ Hi, I'm Thiago Fernandes, videogame enthusiast, avid reader, noob coder, always 
   ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
   ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 
+Farewell, good hunter! May you find your worth in the waking world!
 <!--
 **thiagofernandess/thiagofernandess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
